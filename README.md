@@ -8,7 +8,7 @@
 Я начинающий веб разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ivandavidyuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vanyadavidyuk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vanyadavidyuk98@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ivandavidyuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vanyadavidyuk) [![Gmail Badge](https://img.shields.io/badge/-vanyadavidyuk98@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:vanyadavidyuk98@mail.ru)
 
 ---
 
