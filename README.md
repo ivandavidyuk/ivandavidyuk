@@ -5,7 +5,7 @@
 
 Обо мне:
 
-Я начал свой путь в веб-разработке в начале 2023 года 
+Я начал свой путь в веб-разработке в начале 2023 года с изучения HTML, CSS и JavaScript. Реализовал свои идеи и полученные знания в проекте HealthyFood (https://github.com/ivandavidyuk/HealthyFood), после чего изучил TypeScript, React, Redux и также написал несколько проектов, с которыми вы можете ознакомиться в разделе Pinned. За все это время я получил много знаний и, главное, выработал привычку постоянно учиться новому. Имею большое желание развиваться в сфере фронтенд разработки, работать над интересными проектами и быть полезным в своей команде!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ivandavidyuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vanyadavidyuk) [![Gmail Badge](https://img.shields.io/badge/-vanyadavidyuk98@mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:vanyadavidyuk98@mail.ru)
 
