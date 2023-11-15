@@ -37,6 +37,12 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/ivandavidyuk/badges/large)
+
+---
+
 ### ⚙️ GitHub статистика:
 
 <table>
